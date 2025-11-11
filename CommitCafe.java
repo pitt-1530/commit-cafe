@@ -1,11 +1,9 @@
 public class CommitCafe {
     public static void main(String[] args) {
-        String barista = "Base";
-        int cups = 0;
+        String barista = "Starbocks";
+        int cups = 5;
 
-        // TODO: Simulate a merge conflict by editing this file.
-        // Replace the println() below with your own message or pun.
-        System.out.println(barista + " brewed " + cups + " cups today.");
+        System.out.println(barista + " brewed " + cups + " cups of qahwa this mornin");
     }
 }
 
