@@ -3,7 +3,11 @@ public class CommitCafe {
         String barista = "nvf";
         int cups = 23;
 
-        System.out.println("nvf brewed 23 cups today.");
-        System.out.println("Keep calm and merge the mocha.");
+        // TODO: Simulate a merge conflict by editing this file.
+        // Replace the println() below with your own message or pun.
+        System.out.println(barista + " brewed " + (cups + 5) + " cups with extra caffeine!");
+        System.out.println(barista + " says: Keep calm and brew on!");
     }
 }
+
+// Branch for Zezhong
