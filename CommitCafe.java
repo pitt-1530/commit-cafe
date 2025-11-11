@@ -1,9 +1,13 @@
 public class CommitCafe {
     public static void main(String[] args) {
         String barista = "nvf";
-        int cups = 23;
+        int cups = 16;
 
-        System.out.println("nvf brewed 23 cups today.");
-        System.out.println("Keep calm and merge the mocha.");
+        // Added by Zhuoyan Cen for in-class merge exercise
+        System.out.println(barista + " brewed " + cups + " cups today_zhc.");
+        System.out.println("Commit your coffee, not your code before it compiles.");
     }
 }
+
+// Branch for Zhuoyan
+
