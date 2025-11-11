@@ -1,7 +1,7 @@
 public class CommitCafe {
     public static void main(String[] args) {
         String barista = "Base";
-        int cups = 0;
+        int cups = 22;
 
         // TODO: Simulate a merge conflict by editing this file.
         // Replace the println() below with your own message or pun.
