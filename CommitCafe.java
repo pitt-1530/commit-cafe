@@ -3,7 +3,6 @@ public class CommitCafe {
         String barista = "nvf";
         int cups = 23;
 
-        System.out.println("nvf brewed 23 cups today.");
-        System.out.println("Keep calm and merge the mocha.");
+        System.out.println("nvf brewed 23 cups today!");
     }
 }
